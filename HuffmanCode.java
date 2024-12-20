@@ -1,10 +1,4 @@
 /**
- * Cole Oliva
- * TA: Eric Bae
- * CSE 123 AN
- * 5/26/2023
- * Programming Assignment 3
-
  * this class represents a Huffman coding algorithm implementation.
  * It provides functionality to encode and decode messages using Huffman codes.
  * The class constructs a Huffman tree based on given frequencies or a previously 
