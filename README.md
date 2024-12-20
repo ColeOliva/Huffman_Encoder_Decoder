@@ -11,4 +11,4 @@ HuffmanCode writes out a .new file. after decompressing the code
 
 to run, ```javac HuffmanCompressor.java``` and then ```java HuffmanCompressor```
 
-Full disclosure - HuffmanCompressor was not written by me.
+Full disclosure - HuffmanCompressor was not written by me. Credit goes to the CSE department at the University of Washington.
